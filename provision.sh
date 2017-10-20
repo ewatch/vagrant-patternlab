@@ -32,7 +32,6 @@ sudo apt-get install -y nodejs
 sudo npm install --global gulp-cli
 
 # Install patternlib
-mkdir /opt/
 cd /opt/
 
 git clone https://github.com/pattern-lab/edition-node-gulp.git
